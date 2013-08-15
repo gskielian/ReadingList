@@ -1,6 +1,5 @@
 
 
-
 * Mastering Algorithms with C
   * requires 
     * some set theory
